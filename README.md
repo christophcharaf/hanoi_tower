@@ -44,7 +44,8 @@ En conclusión, el desvío estándar de estas mediciones de tiempo es 0.64 ms y 
 
 ## 6. Especificaciones de Implementación en Cuanto a Tiempo y Memoria
 
-Descripción detallada de las pruebas de rendimiento, incluyendo el desvío estándar mencionado anteriormente.
+![Resultado de 10 pruebas](./results.png "Resultado de 10 pruebas")
+En conclusión, el desvío estándar de estas mediciones de tiempo es 0.64ms y 0.0151 MB para la memoria.
 
 ## 7. Optimalidad de la Solución
 
