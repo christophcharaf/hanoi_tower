@@ -1,3 +1,11 @@
+# Integrantes Grupo 1: TP 1 Inteligencia Artificial
+- Christopher Sebastian,	Charaf Herrera
+- Cecilia Azul,	Villanueva
+- Maria Fabiana,	Cid
+- Pedro Idelfonso,	Fernandez Ruiz
+- Santiago Jose,	Olaciregui
+- Gustavo Julián,	Rivas
+
 # Análisis del Problema de la Torre de Hanoi
 
 ## 1. PEAS (Performance, Environment, Actuators, Sensors)
